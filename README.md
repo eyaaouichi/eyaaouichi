@@ -1,4 +1,5 @@
-Hi there 👋, I’m Eya Aouichi
+Hi there 👋, 
+I’m Eya Aouichi
 I’m a Full-Stack Developer and AI & Data Enthusiast with experience in building MERN stack applications, AI-powered ETL pipelines, intelligent web scraping, and data analytics. I am also expanding my skills in DevOps and Cloud Computing (AWS, Docker, CI/CD, cloud networking) to deliver scalable and automated solutions.
 
 🚀 Let’s build something impactful together.
@@ -27,6 +28,7 @@ Python, JavaScript, MongoDB, Express.js, React/Next.js
 AI-driven data automation and web scraping
 
 📫 How to reach me
+
 LinkedIn : eya aouichi
 
 Email: eyaaouichi20@gmail.com
